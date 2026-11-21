@@ -117,7 +117,7 @@ README との一致を検査する）。
 | 検査 | `scripts/{verify-docs-claims,smoke-worker,render-page}.cljs` |
 | Worker 設定 | `appview/…/wrangler.jsonc` |
 | actor 記述子 | `appview/…/kotodama.jsonld` |
-| 由来・権利・識別 | `NOTICE` / `OWNERS` / `PROJECT.jsonld` / `README.edn` / `migration.edn` / `MIGRATION-TODO.md` |
+| 由来・権利・識別 | `NOTICE` / `OWNERS` / `PROJECT.jsonld` / `README.edn` / `migration.edn` / `MIGRATION-TODO.md` / `blueprint.edn` |
 | 文書 | `README.md` / `docs/operator-quickstart.md` / `docs/adr/*.edn` |
 | **未移行** | `kotoba/`（TypeScript 5 本。下記） |
 
